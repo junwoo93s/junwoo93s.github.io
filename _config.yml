@@ -17,4 +17,4 @@ github_username:  junwoo93s
 google-analytics:
   id: "junwoo93s"
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['package.json' , 'node_modules']
